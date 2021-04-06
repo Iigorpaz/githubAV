@@ -9,6 +9,8 @@
 <p>Dessa forma, nós podemos trabalhar em duas ou mais versões do mesmo projeto, um time de desenvolvedor pode inicialmente estar trabalhando em um MVP do projeto e a partir dessa versão outra é criada na qual se dará incio ao produto final com outro time de desenvolvedor.</p>
 <br/>
 <img  src="./midias/git-workflow.png" >
+
+<sub>Foto de https://leanpub.com/git-flow/read <sub>
 <br/>
 <br/>
 
@@ -35,6 +37,7 @@
 <p><b>fluxo de trabalho</b></p>
 
 Seus repositórios locais consistem em três "árvores" mantidas pelo git. a primeira delas é sua `Working Directory` que contém os arquivos vigentes. a segunda `Index` que funciona como uma área temporária e finalmente a `HEAD` que aponta para o último commit (confirmação) que você fez.
+
 <br/>
 
 <p><b>adicionar & confirmar:</b></p>
@@ -93,6 +96,7 @@ Seus repositórios locais consistem em três "árvores" mantidas pelo git. a pri
    git push origin <funcionalidade_x>
 ```
 
+<br/>
 <p><b>Atualizar & mesclar</b></p>
 <p>para atualizar seu repositório local com a mais nova versão, execute<p>
 
@@ -115,11 +119,34 @@ para fazer merge de um outro branch ao seu branch ativo (ex. master), use</p>
 ```
     git diff <branch origem> <branch destino>
 ```
+<br/>
 
 ## 🔗 Links
--[git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
 - [Comandos iniciais do Git](https://tableless.com.br/alguns-comandos-git/)
 - [O que é github](https://www.hostinger.com.br/tutoriais/o-que-github)
 - [A importancia do git em um  negócio](https://rockcontent.com/br/blog/o-que-e-github/)
 - [Controlando versões com Git e GitHub](https://www.casadocodigo.com.br/pages/sumario-git-github)
 - [Comandos Git do básico ao avançado](https://comandosgit.github.io/)
+
+<br/>
+
+---
+<div align="center">
+
+###  ✏️ Autor
+<p align="center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/igorpaz/"><img style="border-radius: 50%;" src="./midias/perfil.jpg" width="100px;" alt=""/><br /><sub><b>Igor Gabriel Paz</b></sub></a> <a href="https://www.linkedin.com/in/igorpaz/" title="igorpgaz">👨‍🚀</a><br/>
+    <p>Feito com 💜 por Igor Paz 👋 Entre em contato!</p>
+    <a href="https://www.linkedin.com/in/igorpaz/">
+        <img src="https://img.shields.io/badge/-igorgpaz-blue?style=flat-square&logo=linkedin&labelColor=blue">
+    </a>
+    </td>
+  </tr>
+</table>
+</p>
+</div>
+
+---
