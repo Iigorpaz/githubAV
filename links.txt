@@ -1,0 +1,6 @@
+Repositorio de links  úteis para quem está aprendendo Git 
+
+Conceitos basícos:
+  - https://tableless.com.br/alguns-comandos-git/ (Comandos  iniciais do Git)
+  
+Conceitos avançados:
