@@ -117,3 +117,9 @@ para fazer merge de um outro branch ao seu branch ativo (ex. master), use</p>
 ```
 
 ## 🔗 Links
+-[git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
+- [Comandos iniciais do Git](https://tableless.com.br/alguns-comandos-git/)
+- [O que é github](https://www.hostinger.com.br/tutoriais/o-que-github)
+- [A importancia do git em um  negócio](https://rockcontent.com/br/blog/o-que-e-github/)
+- [Controlando versões com Git e GitHub](https://www.casadocodigo.com.br/pages/sumario-git-github)
+- [Comandos Git do básico ao avançado](https://comandosgit.github.io/)
